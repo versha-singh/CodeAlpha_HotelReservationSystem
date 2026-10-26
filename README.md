@@ -1,6 +1,6 @@
 # Hotel Reservation System
 
-A console-based Java application to search, book and manage hotel rooms. Built as Task 4 of the Code Alpha Java Programming Internship.
+A console-based Java application to search, book and manage hotel rooms. 
 
 ## Features
 
